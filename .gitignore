@@ -3,3 +3,8 @@ node_modules
 .env
 
 /src/generated/prisma
+
+# AI agent skills
+.agents/skills/
+.claude/skills/
+.windsurf/skills/
